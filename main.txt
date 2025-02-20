@@ -9,7 +9,7 @@ Tạo playlist
 Follow người khác
 Tải nhạc lên
 Sửa nhạc
-Tạo albumalbum
+Tạo album
 Xem thống kê bài hát
 Nghe nhạc offline
 Quản lí báo cáo vi phạm
