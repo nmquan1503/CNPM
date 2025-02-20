@@ -1,7 +1,7 @@
 Đăng kí tài khoản
 Đăng nhập
 Nghe nhạc
-Tìm kiếm bài hát
+Tìm kiếm bài hát (có search được cả người dùng)
 Like
 Comment
 Báo cáo vi phạm
