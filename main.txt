@@ -1,17 +1,20 @@
 Đăng kí tài khoản
 Đăng nhập
+Đăng xuất
 Nghe nhạc
 Tìm kiếm bài hát (có search được cả người dùng)
 Like
-Comment
+Share
 Báo cáo vi phạm
+Xem playlist
 Tạo playlist
+Xem lịch sử phát nhạc
+Xem danh sách những người đã follow
+Xem danh sách album yêu thích
+Xem thống kê 1 tháng qua
 Follow người khác
-Tải nhạc lên
-Sửa nhạc
-Tạo album
-Xem thống kê bài hát
-Nghe nhạc offline
+Quản lí thông báo
+
 Quản lí báo cáo vi phạm
 Quản lí người dùng
 Hiển thị quảng cáo
@@ -20,9 +23,15 @@ Xem chi tiết quảng cáo
 Gia hạn premium
 Hủy đăng kí premium
 
+Up nhạc lên
+Gỡ nhạc
+Thay đổi thông tin nhạc
+Tạo album
+Xem danh sách nhạc đã up
+Xem thống kê
 
-Khách có thể đăng nhập, đăng kí, tìm kiếm nhạc
-Người thường xem sẽ có quảng cáo
-Premium không quảng cáo
-Artist có thể xem thống kê nhạc của mình
-Admin làm all
+
+Khách: login, nghe nhạc, tìm nhạc
+Premium: chống quảng cáo
+Artist: Up nhạc
+
