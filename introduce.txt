@@ -1,0 +1,14 @@
+Giới thiệu
+
+Âm nhạc là một phần không thể thiếu trong đời sống con người, giúp thư giãn, giải trí và kết nối cảm xúc. Với sự phát triển của công nghệ, các nền tảng nghe nhạc trực tuyến ngày càng trở nên phổ biến, mang đến trải nghiệm nghe nhạc mọi lúc, mọi nơi chỉ với một thiết bị có kết nối internet.
+
+Dự án này hướng đến việc xây dựng một nền tảng nghe nhạc trực tuyến hiện đại, cho phép người dùng tìm kiếm, phát nhạc, tạo danh sách phát cá nhân, lưu bài hát yêu thích và khám phá các nội dung âm nhạc mới. Hệ thống được thiết kế với giao diện thân thiện, dễ sử dụng, tối ưu trải nghiệm người dùng trên cả nền tảng web và thiết bị di động.
+Mục tiêu dự án
+
+    Cung cấp một nền tảng nghe nhạc trực tuyến tiện lợi, mượt mà.
+    Hỗ trợ phát nhạc chất lượng cao với tốc độ tải nhanh.
+    Cho phép người dùng quản lý danh sách phát cá nhân.
+    Hệ thống gợi ý nhạc thông minh dựa trên sở thích của người dùng.
+    Đảm bảo hiệu suất, bảo mật và khả năng mở rộng hệ thống.
+
+Dự án sử dụng các công nghệ [liệt kê công nghệ bạn đang dùng, ví dụ: Angular, React, Spring Boot, Node.js, MySQL...] để đảm bảo hiệu năng cao và trải nghiệm người dùng tốt nhất.
