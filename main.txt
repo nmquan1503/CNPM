@@ -5,6 +5,7 @@ Nghe nhạc
 Tìm kiếm bài hát (có search được cả người dùng)
 Like
 Share
+---------------
 Báo cáo vi phạm
 Xem playlist
 Tạo playlist
@@ -12,6 +13,7 @@ Xem lịch sử phát nhạc
 Xem danh sách những người đã follow
 Xem danh sách album yêu thích
 Xem thống kê 1 tháng qua
+--------------
 Follow người khác
 Quản lí thông báo
 
@@ -20,6 +22,7 @@ Quản lí người dùng
 Hiển thị quảng cáo
 Xem chi tiết quảng cáo
 Đăng kí premium
+-------------
 Gia hạn premium
 Hủy đăng kí premium
 
