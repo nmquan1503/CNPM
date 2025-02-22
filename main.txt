@@ -38,3 +38,10 @@ Khách: login, nghe nhạc, tìm nhạc
 Premium: chống quảng cáo
 Artist: Up nhạc
 
+
+Nguyễn Minh Quân: 7 use case đầu + các tác nhân + chức năng hệ thống
+Dương Minh Quân: 7 use case thứ 2 + phi chức năng
+Thế: 8 use case + sơ đồ use case tổng quan
+Nhật: 7 use case thứ 3 + sơ đồ use case phân rã
+
+
